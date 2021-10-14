@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Styrene A Web';
+    font-style:  normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('StyreneAWeb-Light.woff2') format('woff2')
+  }
+  @font-face {
+    font-family: 'Styrene A Web';
+    font-style:  normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('StyreneAWeb-Medium.woff2') format("woff2")
+  }
+  
+  @font-face {
+    font-family: 'Styrene A Web';
+    font-style:  normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('StyreneAWeb-Bold.woff2') format("woff2")
+  }
